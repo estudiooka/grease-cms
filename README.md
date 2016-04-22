@@ -1,7 +1,8 @@
 GREASE 
 =====
 
-Just dance and code. A fast and simple markdown file-based CMS developed with Silex and Symfony Components and templating with twig.
+Just code and dance. 
+A fast and simple markdown file-based CMS developed with Silex and Symfony Components and templating with twig.
 
 # GREASE 1.0 DOCUMENTATION
 
@@ -94,3 +95,7 @@ lorem
 - Symfony Components
 - Moust Cache
 - PHP Markdown & Extra
+
+## Credits
+- Fabio Luis
+- Estúdio OKA
