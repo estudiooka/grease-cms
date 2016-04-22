@@ -1,4 +1,4 @@
-GREASE CMS -  0.1
+GREASE CMS
 =====
 
 Just code and dance.  
