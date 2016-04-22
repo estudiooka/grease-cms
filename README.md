@@ -1,10 +1,10 @@
-GREASE CMS
+GREASE CMS -  0.1
 =====
 
 Just code and dance.  
 A fast and simple markdown file-based CMS developed with Silex and Symfony Components and templating with twig.
 
-# GREASE 1.0 DOCUMENTATION
+## DOCUMENTATION
 
 ### Cache
 
