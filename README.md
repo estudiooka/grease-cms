@@ -97,5 +97,4 @@ lorem
 - PHP Markdown & Extra
 
 ## Credits
-- Fabio Luis
-- Estúdio OKA
+Developed by Fabio Luis @ [Estúdio OKA](http://www.estudiooka.com.br)
